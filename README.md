@@ -15,7 +15,7 @@ The Android code works and was tested.
 you can open the app with two urls schemes:
 
 * [http://myapp.org/blablabla](http://myapp.org/blablabla)
-* [myapp://blablabla](myapp://blablabla)
+* <a href="myapp://blablabla">myapp://blablabla</a>
 
 For some mobile browsers like firefox, you'll have to 'open in an application' with a long tap on the link.
 
