@@ -1,5 +1,8 @@
 # intent-demo-for-kivy
 
+*this repo is an update of this wiki page: https://github.com/kivy/kivy/wiki/Deep-Linking-with-iOS-and-Android*
+PR and comments are welcome !
+
 A minimal demo to test intents with kivy
 
 ## Disclaimer
