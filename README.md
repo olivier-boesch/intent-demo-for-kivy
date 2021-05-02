@@ -21,6 +21,10 @@ For some mobile browsers like firefox, you'll have to 'open in an application' w
 
 ### test with barcodes (to open app with a barcode scanner)
 
-![](https://github.com/olivier-boesch/intent-demo-for-kivy/raw/main/barcodes/this-is-a-data-intent.png)
+test for http://myapp.org/this-is-a-data-intent
 
-![](https://github.com/olivier-boesch/intent-demo-for-kivy/raw/main/barcodes/app-proto-this-is-a-data-intent.png)
+![link to http filter](https://github.com/olivier-boesch/intent-demo-for-kivy/raw/main/barcodes/this-is-a-data-intent.png)
+
+test for myapp://this-is-a-data-intent
+
+![link to app scheme](https://github.com/olivier-boesch/intent-demo-for-kivy/raw/main/barcodes/app-proto-this-is-a-data-intent.png)
